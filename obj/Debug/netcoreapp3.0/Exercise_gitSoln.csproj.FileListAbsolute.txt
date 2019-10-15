@@ -1,0 +1,11 @@
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Exercise_Git\Exercise_gitSoln\bin\Debug\netcoreapp3.0\Exercise_gitSoln.exe
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Exercise_Git\Exercise_gitSoln\bin\Debug\netcoreapp3.0\Exercise_gitSoln.deps.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Exercise_Git\Exercise_gitSoln\bin\Debug\netcoreapp3.0\Exercise_gitSoln.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Exercise_Git\Exercise_gitSoln\bin\Debug\netcoreapp3.0\Exercise_gitSoln.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Exercise_Git\Exercise_gitSoln\bin\Debug\netcoreapp3.0\Exercise_gitSoln.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Exercise_Git\Exercise_gitSoln\bin\Debug\netcoreapp3.0\Exercise_gitSoln.pdb
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Exercise_Git\Exercise_gitSoln\obj\Debug\netcoreapp3.0\Exercise_gitSoln.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Exercise_Git\Exercise_gitSoln\obj\Debug\netcoreapp3.0\Exercise_gitSoln.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Exercise_Git\Exercise_gitSoln\obj\Debug\netcoreapp3.0\Exercise_gitSoln.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Exercise_Git\Exercise_gitSoln\obj\Debug\netcoreapp3.0\Exercise_gitSoln.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Exercise_Git\Exercise_gitSoln\obj\Debug\netcoreapp3.0\Exercise_gitSoln.pdb
